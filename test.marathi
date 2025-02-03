@@ -1,0 +1,23 @@
+He aahe x = 7; 
+Jar (x == 5) 
+  He aahe y = 10; 
+Nahitar   
+    Chapa("x is 5");
+
+He aahe x = 0;
+joparyant (x < 5)
+    Chapa("x is " + x);
+    x = x + 1;
+sampel
+
+karya add(a, b) {
+    he aahe result = a + b;
+    parat(result);
+}
+
+he aahe sum = add(3, 4);
+chapa("Sum is: " + sum);
+
+
+
+
